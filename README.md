@@ -10,16 +10,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjahani&layout=compact)
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Research-blue)
-
-![FL](https://img.shields.io/badge/Federated-Learning-success)
-
-![PdM](https://img.shields.io/badge/Predictive-Maintenance-orange)
-
-![RL](https://img.shields.io/badge/Reinforcement-Learning-purple)
-
-![TEC](https://img.shields.io/badge/Earth-Observation-green)
-
 # Hi, I'm Dr. Khalil Jahani
 
 ### Artificial Intelligence Researcher
@@ -36,13 +26,15 @@ Postdoctoral Researcher in Artificial Intelligence at Sharif University of Techn
 
 My research focuses on developing scalable, trustworthy and privacy-preserving AI systems for:
 
-- Federated Learning
-- Predictive Maintenance
-- Industry 4.0
-- Autonomous Driving
-- Deep Learning
-- Earth Observation
-- Geophysics
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Research-blue)
+
+![FL](https://img.shields.io/badge/Federated-Learning-success)
+
+![PdM](https://img.shields.io/badge/Predictive-Maintenance-orange)
+
+![RL](https://img.shields.io/badge/Reinforcement-Learning-purple)
+
+![TEC](https://img.shields.io/badge/Earth-Observation-green)
 
 ---
 
