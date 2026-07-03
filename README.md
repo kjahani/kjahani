@@ -4,7 +4,7 @@
 
 # Hi, I'm Dr. Khalil Jahani
 
-### Artificial Intelligence Researcher
+### Trustworthy AI Researcher
 
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-Research-blue)
 
