@@ -78,7 +78,7 @@ Transformer-based deep learning framework for global TEC prediction.
 
 Reinforcement learning framework for intelligent maintenance optimization.
 
-### Aircraft-Health-Monitoring
+### Health-Monitoring-System
 
 AI-powered health monitoring and fault prediction system for aerospace applications.
 
