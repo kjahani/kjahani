@@ -2,14 +2,6 @@
   <img src="YOUR_BANNER_LINK" width="100%">
 </p>
 
-## GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=kjahani&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kjahani)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjahani&layout=compact)
-
 # Hi, I'm Dr. Khalil Jahani
 
 ### Artificial Intelligence Researcher
@@ -134,3 +126,11 @@ Google Scholar: https://scholar.google.com/citations?hl=en&user=dmvYUnEAAAAJ
 ORCID: https://orcid.org/0009-0000-8554-336X
 
 ResearchGate: https://www.researchgate.net/profile/Khalil-Jahani
+
+## GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=kjahani&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kjahani)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjahani&layout=compact)
