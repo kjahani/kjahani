@@ -20,9 +20,7 @@
 
 ## About Me
 
-I am a PhD holder in Artificial Intelligence from the University of Tehran.
-
-Postdoctoral Researcher in Artificial Intelligence at Sharif University of Technology.
+I am a Postdoctoral Researcher in Artificial Intelligence at Sharif University of Technology.
 
 My research focuses on developing scalable, trustworthy and privacy-preserving AI systems for:
 
