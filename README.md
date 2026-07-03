@@ -127,6 +127,8 @@ ORCID: https://orcid.org/0009-0000-8554-336X
 
 ResearchGate: https://www.researchgate.net/profile/Khalil-Jahani
 
+---
+
 ## GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=kjahani&show_icons=true)
