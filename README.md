@@ -1,4 +1,4 @@
-Dr. Kian Jahani
+Dr. Kahlil Jahani
 
 AI Researcher | Federated Learning | Reinforcement Learning |
 Predictive Maintenance | Autonomous Systems
