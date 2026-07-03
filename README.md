@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK" width="100%">
+  <img src="C:\Users\Kian\Downloads\Banner.png" width="100%">
 </p>
 
 # Hi, I'm Dr. Khalil Jahani
