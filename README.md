@@ -1,4 +1,4 @@
-# Hi, I'm Dr. Khalil Jahani
+# Hi, I'm Khalil Jahani
 
 PhD in Artificial Intelligence | Researcher in Federated Learning, Predictive Maintenance, and Autonomous Intelligent Systems
 
