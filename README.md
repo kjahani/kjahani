@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="YOUR_BANNER_LINK" width="100%">
+</p>
+
+## GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=kjahani&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kjahani)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjahani&layout=compact)
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Research-blue)
+
+![FL](https://img.shields.io/badge/Federated-Learning-success)
+
+![PdM](https://img.shields.io/badge/Predictive-Maintenance-orange)
+
+![RL](https://img.shields.io/badge/Reinforcement-Learning-purple)
+
+![TEC](https://img.shields.io/badge/Earth-Observation-green)
+
 # Hi, I'm Dr. Khalil Jahani
 
 ### Artificial Intelligence Researcher
