@@ -112,8 +112,6 @@ Benchmarking non-IID challenges in Federated Learning.
 
 ---
 
-## Academic Profiles
-
 <h2>Academic Profiles</h2>
 
 <p align="center">
@@ -142,8 +140,6 @@ Building trustworthy AI systems that bridge scientific discovery and real-world 
 Open Science • Reproducible Research • Human-Centered AI
 
 ---
-
-## Connect
 
 <h2>Connect</h2>
 
