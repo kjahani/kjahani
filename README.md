@@ -22,15 +22,9 @@
 
 I am a Postdoctoral Researcher in Artificial Intelligence at Sharif University of Technology.
 
-My research focuses on developing scalable, trustworthy and privacy-preserving AI systems for:
+My research lies at the intersection of Federated Learning, Reinforcement Learning, Predictive Maintenance, Autonomous Systems, and Space Weather Intelligence.
 
-- Federated Learning
-- Predictive Maintenance
-- Industry 4.0
-- Autonomous Driving
-- Deep Learning
-- Earth Observation
-- Geophysics
+I am particularly interested in developing trustworthy, scalable, and privacy-preserving AI systems that bridge cutting-edge research and real-world deployment across Industry 4.0, intelligent transportation, and scientific discovery.
 
 ---
 
@@ -109,8 +103,9 @@ Geophysics
 
 ## Publications
 
-Research articles and open-source implementations are continuously released through this profile.
-
+- PPFL: Privacy-Preserving Techniques in Federated Learning (2024)
+- A survey on data distribution challenges and solutions in vertical and horizontal federated learning (2024)
+- Secure PDM: A novel Byzantine Fault Tolerant federated learning framework using a robust PCA-based anomaly detection approach (2025)
 ---
 
 ## Contact
