@@ -96,16 +96,14 @@ Open-source FL algorithms and frameworks.
 - Secure PDM: A novel Byzantine Fault Tolerant federated learning framework using a robust PCA-based anomaly detection approach (2025)
 
 ---
-
 ## Academic Profiles
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=dmvYUnEAAAAJ)
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8554-336X)
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Khalil-Jahani)
-
-[![GitHub Organization](https://img.shields.io/badge/Kian%20AI%20Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kian-AI-Lab)
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=dmvYUnEAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0000-8554-336X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Khalil-Jahani"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
+  <a href="https://github.com/Kian-AI-Lab"><img src="https://img.shields.io/badge/Kian_AI_Lab-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
