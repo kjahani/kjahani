@@ -34,21 +34,15 @@ Building intelligent systems that bridge cutting-edge AI research and real-world
 
 ---
 
-## Research Impact
+## Research Profile
 
-🎓 PhD in Artificial Intelligence
-
-📚 Multiple peer-reviewed publications
-
-🔒 Federated Learning Research
-
-🚗 Autonomous Systems
-
-🌍 Space Weather Intelligence
-
-🏭 Industry 4.0 Applications
-
-🤝 Open Science and Reproducible Research
+| Area | Focus |
+|--------|--------|
+| Federated Learning | Privacy-Preserving Distributed Intelligence |
+| Reinforcement Learning | Autonomous Decision-Making Systems |
+| Predictive Maintenance | Industry 4.0 and Smart Manufacturing |
+| Space Weather AI | Global TEC Forecasting and Ionospheric Modeling |
+| Trustworthy AI | Secure, Explainable, and Scalable AI |
 
 ---
 
