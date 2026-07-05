@@ -103,6 +103,18 @@ Open-source FL algorithms and frameworks.
 
 ---
 
+## Academic Profiles
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=dmvYUnEAAAAJ)
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8554-336X)
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Khalil-Jahani)
+
+[![GitHub Organization](https://img.shields.io/badge/Kian%20AI%20Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kian-AI-Lab)
+
+---
+
 ## GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=kjahani&show_icons=true)
