@@ -6,15 +6,13 @@
 
 ### Trustworthy AI Researcher
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Research-blue)
-
-![FL](https://img.shields.io/badge/Federated-Learning-success)
-
-![PdM](https://img.shields.io/badge/Predictive-Maintenance-orange)
-
-![RL](https://img.shields.io/badge/Reinforcement-Learning-purple)
-
-![TEC](https://img.shields.io/badge/Earth-Observation-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FL-Federated%20Learning-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PdM-Predictive%20Maintenance-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RL-Reinforcement%20Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TEC-Earth%20Observation-green?style=for-the-badge" />
+</p>
 
 ---
 
