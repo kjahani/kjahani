@@ -130,6 +130,14 @@ Benchmarking non-IID challenges in Federated Learning.
 <a href="https://github.com/Kian-AI-Lab">
 <img src="https://img.shields.io/badge/Kian_AI_Lab-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<a href="mailto:khalil.jahani@ee.sharif.edu">
+<img src="https://img.shields.io/badge/Sharif_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="mailto:jahanii@ut.ac.ir">
+<img src="https://img.shields.io/badge/UT_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 ---
@@ -139,22 +147,6 @@ Benchmarking non-IID challenges in Federated Learning.
 Building trustworthy AI systems that bridge scientific discovery and real-world impact.
 
 Open Science • Reproducible Research • Human-Centered AI
-
----
-
-<h2>Connect</h2>
-
-<p align="center">
-
-<a href="mailto:khalil.jahani@ee.sharif.edu">
-<img src="https://img.shields.io/badge/Sharif_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="mailto:jahanii@ut.ac.ir">
-<img src="https://img.shields.io/badge/UT_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
 
 ---
 
