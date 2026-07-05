@@ -2,7 +2,7 @@
   <img src="Banner.png" width="100%">
 </p>
 
-# Hi, I'm Dr. Khalil Jahani
+# Dr. Khalil Jahani
 
 ### Trustworthy AI Researcher
 
@@ -28,7 +28,7 @@ I am particularly interested in developing trustworthy, scalable, and privacy-pr
 
 ## Research Vision
 
-Building intelligent systems that bridge cutting-edge AI research and real-world industrial applications.
+Advancing trustworthy, scalable, and privacy-preserving AI systems that transform industrial intelligence, autonomous systems, and scientific discovery.
 
 ---
 
@@ -144,9 +144,9 @@ Benchmarking non-IID challenges in Federated Learning.
 
 ### Research Philosophy
 
-Building trustworthy AI systems that bridge scientific discovery and real-world impact.
+I believe impactful AI research should be trustworthy, reproducible, and designed to solve real-world challenges across industry, transportation, and scientific exploration.
 
-Open Science • Reproducible Research • Human-Centered AI
+Open Science • Reproducible Research • Trustworthy AI
 
 ---
 
