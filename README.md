@@ -34,6 +34,24 @@ Building intelligent systems that bridge cutting-edge AI research and real-world
 
 ---
 
+## Research Impact
+
+🎓 PhD in Artificial Intelligence
+
+📚 Multiple peer-reviewed publications
+
+🔒 Federated Learning Research
+
+🚗 Autonomous Systems
+
+🌍 Space Weather Intelligence
+
+🏭 Industry 4.0 Applications
+
+🤝 Open Science and Reproducible Research
+
+---
+
 ## Current Research
 
 - Transformer-based TEC Prediction
@@ -110,15 +128,15 @@ Geophysics
 
 ## Contact
 
+[![Google Scholar]([...](https://scholar.google.com/citations?hl=en&user=dmvYUnEAAAAJ))]
+[![ORCID]([...](https://orcid.org/0009-0000-8554-336X))]
+[![ResearchGate]([...](https://www.researchgate.net/profile/Khalil-Jahani))]
+[![LinkedIn]([...](https://www.linkedin.com/in/khalil-jahani-45872525b/))]
+
 Email: khalil.jahani@ee.sharif.edu
 
 Email: jahanii@ut.ac.ir
 
-Google Scholar: https://scholar.google.com/citations?hl=en&user=dmvYUnEAAAAJ
-
-ORCID: https://orcid.org/0009-0000-8554-336X
-
-ResearchGate: https://www.researchgate.net/profile/Khalil-Jahani
 
 ---
 
