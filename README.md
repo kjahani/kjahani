@@ -77,39 +77,15 @@ Open-source FL algorithms and frameworks.
 
 ## Technical Skills
 
-Artificial Intelligence
+🧠 AI & ML: Artificial Intelligence • Machine Learning • Deep Learning
 
-Machine Learning
+🔒 Trustworthy AI: Federated Learning • Privacy-Preserving AI
 
-Deep Learning
+🤖 Autonomous Systems: Reinforcement Learning • Decision Intelligence
 
-Federated Learning
+🔄 Foundation Models: Transformers • LLM Agents
 
-Transformers
-
-Reinforcement Learning
-
-MLOps
-
-Python
-
-PyTorch
-
-TensorFlow
-
----
-
-## Selected Domains
-
-Industry 4.0
-
-Predictive Maintenance
-
-Autonomous Vehicles
-
-Earth Observation
-
-Geophysics
+⚙️ Engineering: MLOps • Python • PyTorch • TensorFlow
 
 ---
 
@@ -118,17 +94,12 @@ Geophysics
 - PPFL: Privacy-Preserving Techniques in Federated Learning (2024)
 - A survey on data distribution challenges and solutions in vertical and horizontal federated learning (2024)
 - Secure PDM: A novel Byzantine Fault Tolerant federated learning framework using a robust PCA-based anomaly detection approach (2025)
+
 ---
 
-## Contact
+## Academic Profiles
 
-[![Google Scholar](https://scholar.google.com/citations?user=dmvYUnEAAAAJ&hl=en)].
-[![ORCID](https://orcid.org/0009-0000-8554-336X)]
-[![ResearchGate](https://www.researchgate.net/profile/Khalil-Jahani)]
-[![LinkedIn](https://www.linkedin.com/in/khalil-jahani-45872525b/)]
-[![Email](khalil.jahani@ee.sharif.edu)]
-[![Email](jahanii@ut.ac.ir)]
-
+🎓 Google Scholar • 🆔 ORCID • 📚 ResearchGate • 🏛️ Kian AI Lab • 📧 Email
 
 ---
 
