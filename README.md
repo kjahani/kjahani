@@ -99,12 +99,6 @@ Open-source FL algorithms and frameworks.
 
 ## Academic Profiles
 
-🎓 Google Scholar • 🆔 ORCID • 📚 ResearchGate • 🏛️ Kian AI Lab • 📧 Email
-
----
-
-## Academic Profiles
-
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=dmvYUnEAAAAJ)
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8554-336X)
@@ -112,6 +106,18 @@ Open-source FL algorithms and frameworks.
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Khalil-Jahani)
 
 [![GitHub Organization](https://img.shields.io/badge/Kian%20AI%20Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kian-AI-Lab)
+
+---
+
+## Connect
+
+<a href="mailto:khalil.jahani@ee.sharif.edu">
+  <img src="https://img.shields.io/badge/Sharif_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="mailto:jahanii@ut.ac.ir">
+  <img src="https://img.shields.io/badge/UT_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
