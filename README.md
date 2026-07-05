@@ -128,10 +128,10 @@ Geophysics
 
 ## Contact
 
-[![Google Scholar]([/citations?hl=en&user=dmvYUnEAAAAJ].
-[![ORCID]([...](https://orcid.org/0009-0000-8554-336X))]
-[![ResearchGate]([...](https://www.researchgate.net/profile/Khalil-Jahani))]
-[![LinkedIn]([...](https://www.linkedin.com/in/khalil-jahani-45872525b/))]
+[![Google Scholar](https://scholar.google.com/citations?user=dmvYUnEAAAAJ&hl=en)].
+[![ORCID](https://orcid.org/0009-0000-8554-336X)]
+[![ResearchGate](https://www.researchgate.net/profile/Khalil-Jahani)]
+[![LinkedIn]((https://www.linkedin.com/in/khalil-jahani-45872525b/))]
 
 Email: khalil.jahani@ee.sharif.edu
 
