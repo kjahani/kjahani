@@ -58,21 +58,31 @@ Building intelligent systems that bridge cutting-edge AI research and real-world
 
 ## Featured Projects
 
-### SecurePdM-FL
-
+### 🚀 SecurePdM-FL
 Secure Federated Learning Architecture for Predictive Maintenance.
 
-### Global TEC Transformer
+🔗 Repository: [Secure-PDM-FL](https://github.com/kjahani/Secure-PDM-FL)
 
+---
+
+### 🌍 TEC-Transformer
 Transformer-based forecasting of Total Electron Content.
 
-### Autonomous Driving RL
+🔗 Repository: [TEC-transformer](https://github.com/kjahani/TEC-transformer)
 
-Decision-making systems based on reinforcement learning.
+---
 
-### Federated Learning Toolkit
+### 🚗 Autonomous-Maintenance-RL
+Reinforcement Learning for autonomous maintenance decision systems.
 
-Open-source FL algorithms and frameworks.
+🔗 Repository: [Autonomous-Maintenance-RL](https://github.com/kjahani/Autonomous-Maintenance-RL)
+
+---
+
+### 🔒 FL-NonIID-Benchmark
+Benchmarking non-IID challenges in Federated Learning.
+
+🔗 Repository: [FL-noniid-benchmark](https://github.com/kjahani/FL-noniid-benchmark)
 
 ---
 
@@ -101,15 +111,28 @@ Open-source FL algorithms and frameworks.
 🔗 Full publication list available on Google Scholar.
 
 ---
+
 ## Academic Profiles
 
-<p align="center">
-  <a href="https://scholar.google.com/citations?hl=en&user=dmvYUnEAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0000-8554-336X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
-  <a href="https://www.researchgate.net/profile/Khalil-Jahani"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-  <a href="https://github.com/Kian-AI-Lab"><img src="https://img.shields.io/badge/Kian_AI_Lab-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<h2>Academic Profiles</h2>
 
+<p align="center">
+<a href="https://scholar.google.com/citations?hl=en&user=dmvYUnEAAAAJ">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+</a>
+
+<a href="https://orcid.org/0009-0000-8554-336X">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+</a>
+
+<a href="https://www.researchgate.net/profile/Khalil-Jahani">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
+</a>
+
+<a href="https://github.com/Kian-AI-Lab">
+<img src="https://img.shields.io/badge/Kian_AI_Lab-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 ---
 
 ### Research Philosophy
@@ -122,13 +145,19 @@ Open Science • Reproducible Research • Human-Centered AI
 
 ## Connect
 
+<h2>Connect</h2>
+
+<p align="center">
+
 <a href="mailto:khalil.jahani@ee.sharif.edu">
-  <img src="https://img.shields.io/badge/Sharif_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Sharif_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="mailto:jahanii@ut.ac.ir">
-  <img src="https://img.shields.io/badge/UT_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/UT_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+</p>
 
 ---
 
