@@ -72,10 +72,10 @@ Transformer-based forecasting of Total Electron Content.
 
 ---
 
-### 🚗 Autonomous-Maintenance-RL
-Reinforcement Learning for autonomous maintenance decision systems.
+### 🚗 Autonomous-System-RL
+Reinforcement Learning for autonomous Decision-Making systems.
 
-🔗 Repository: [Autonomous-Maintenance-RL](https://github.com/kjahani/Autonomous-Maintenance-RL)
+🔗 Repository: [Autonomous-System-RL](https://github.com/kjahani/Autonomous-System-RL)
 
 ---
 
