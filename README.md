@@ -48,10 +48,13 @@ Building intelligent systems that bridge cutting-edge AI research and real-world
 
 ## Current Research
 
-- Transformer-based TEC Prediction
-- Federated Predictive Maintenance
-- Reinforcement Learning for Autonomous Systems
-- Trustworthy AI Architectures
+🔭 Transformer-Based Global TEC Prediction
+
+🏭 Federated Learning for Predictive Maintenance in Industry 4.0
+
+🚗 Reinforcement Learning for Autonomous Decision-Making Systems
+
+🔒 Trustworthy, Privacy-Preserving, and Secure AI Architectures
 
 ---
 
@@ -89,11 +92,15 @@ Open-source FL algorithms and frameworks.
 
 ---
 
-## Publications
+## Selected Publications
 
-- PPFL: Privacy-Preserving Techniques in Federated Learning (2024)
-- A survey on data distribution challenges and solutions in vertical and horizontal federated learning (2024)
-- Secure PDM: A novel Byzantine Fault Tolerant federated learning framework using a robust PCA-based anomaly detection approach (2025)
+📄 PPFL: Privacy-Preserving Techniques in Federated Learning (2024)
+
+📄 A Survey on Data Distribution Challenges and Solutions in Vertical and Horizontal Federated Learning (2024)
+
+📄 SecurePdM-FL: A Byzantine Fault-Tolerant Federated Learning Framework for Predictive Maintenance (2025)
+
+🔗 Full publication list available on Google Scholar.
 
 ---
 ## Academic Profiles
@@ -104,6 +111,14 @@ Open-source FL algorithms and frameworks.
   <a href="https://www.researchgate.net/profile/Khalil-Jahani"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
   <a href="https://github.com/Kian-AI-Lab"><img src="https://img.shields.io/badge/Kian_AI_Lab-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
+
+### Research Philosophy
+
+Building trustworthy AI systems that bridge scientific discovery and real-world impact.
+
+Open Science • Reproducible Research • Human-Centered AI
 
 ---
 
